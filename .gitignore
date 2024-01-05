@@ -1,4 +1,4 @@
 /venv
-/react_assets
+#/frontend/react_assets_tempr
 /frontend/node_modules
 frontend/package-lock.json
